@@ -1,0 +1,6 @@
+{
+  "name": "Sofia Robotics • L'Harmonie Relationnelle Retrouvée",
+  "description": "Sofia Robotics • L'Harmonie Relationnelle Retrouvée : cerveau comportement psychologique de robot compagnon ou partenaire open source, moteur déterministe local, mémoire IndexedDB étanche et ROS 2.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
